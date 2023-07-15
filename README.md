@@ -1,2 +1,2 @@
 # IMDB-clone
-details about imdb clone
+https://pooja1840065.github.io/IMDB-clone/
